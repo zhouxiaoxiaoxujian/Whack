@@ -286,6 +286,8 @@ package com.byxb.extensions.starling.extensions {
 	}
 }
 
+import Starling.extensions.Particle;
+
 class PDParticle extends starling.extensions.Particle
 {
 	public var colorArgb:ColorArgb;
